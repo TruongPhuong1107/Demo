@@ -34,6 +34,8 @@ function App() {
 
           </tbody>
         </table>
+        <td><Link to={'/create'} className="nav-link"><button className="btn btn-danger">Thêm</button></Link></td>
+          
       {/* <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <Link to={'/'} className="navbar-brand">React CRUD Example</Link>
