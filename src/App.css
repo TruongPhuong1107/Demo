@@ -37,8 +37,8 @@
   }
 }
 .create-container{
-width: 400px;
+width: 500px;
 position: fixed;
-left:250px;
+left:28em;
 top:100px;
 }
