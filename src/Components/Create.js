@@ -13,7 +13,10 @@ export default class Create extends Component{
                     </div>
                     <div className="form-group">
                       <label>Loại:</label>
-                      <input type="text" className="form-control"/>
+                      <select name="categories" id="categories">
+                      <option value="nuoc">Nước giải Khát</option>
+                      
+                        </select>
                     </div>
                     <div className="form-group">
                       <label>Giá:</label>
